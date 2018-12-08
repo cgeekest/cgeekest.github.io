@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Welcome to my first post"
-date: 2018-12-06
 ---
 
 # Welcome
+title: "Welcome to my first post"
+date: 2018-12-06
 
 **Hello world**, this is my first post.
 
