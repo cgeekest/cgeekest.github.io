@@ -110,4 +110,8 @@ ___
 
 [emp]: https://thumbs.dreamstime.com/b/%E7%A4%BA%E4%BE%8B%E5%8D%B0%E8%8A%B1%E7%A8%8E-28420393.jpg
 
+很遗憾，目前还无法指定图片的宽高
 
+最后两个：  
+自动链接: `<http://www.baidu.com>` <http://www.baidu.com>  
+反斜杠用来插入语法符号: `` \` `` look: \`
