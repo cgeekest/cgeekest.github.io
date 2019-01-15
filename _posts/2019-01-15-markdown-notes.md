@@ -81,13 +81,16 @@ ___
 `[baidu](http://www.baidu.com)`  
 [baidu](http://www.baidu.com)
 
-参考式的链接类似于：
+参考式的链接类似于（别忘了http）：
 
     [baidu][b]
-    [b]: www.baidu.com
+    [b]: http://www.baidu.com
 
 [baidu][b]
 
-[b]: www.baidu.com
+[b]: http://www.baidu.com
 
+
+使用*\**或者_\__进行强调  
+使用**\*\***或者__\_\___进行强调
 
