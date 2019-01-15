@@ -56,7 +56,7 @@ Atx是在行首插入1到6个`#`。
         printf("hello all");
     }
 
-或者使用```
+或者使用```` ``` ````
 ```c++
 if (true) {
     printf("hello again");
@@ -96,3 +96,18 @@ ___
 
 使用`` ` ``来包围代码：`printf()`  
 也可以用两个``` `` ```来包围，这样能在中间显示反引号``` `` ` `` ```: `` ` ``
+
+图片也分行内式和参考式  
+行内式：`![example img](https://thumbs.dreamstime.com/b/%E7%A4%BA%E4%BE%8B%E5%8D%B0%E8%8A%B1%E7%A8%8E-28420393.jpg)`  
+![example img](https://thumbs.dreamstime.com/b/%E7%A4%BA%E4%BE%8B%E5%8D%B0%E8%8A%B1%E7%A8%8E-28420393.jpg)  
+参考式：
+
+    ![example img][emp]
+
+    [emp]: https://thumbs.dreamstime.com/b/%E7%A4%BA%E4%BE%8B%E5%8D%B0%E8%8A%B1%E7%A8%8E-28420393.jpg
+
+![example img][emp]
+
+[emp]: https://thumbs.dreamstime.com/b/%E7%A4%BA%E4%BE%8B%E5%8D%B0%E8%8A%B1%E7%A8%8E-28420393.jpg
+
+
