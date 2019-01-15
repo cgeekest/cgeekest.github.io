@@ -76,4 +76,13 @@ if (true) {
 
 ___
 
+链接分行内式与参考式  
+行内式的链接类似于这样：  
+`[baidu](www.baidu.com)`  
+[baidu](www.baidu.com)
+参考式的链接类似于：
 
+    [baidu][b]
+    [b]: www.baidu.com
+[baidu][b]
+[b]: www.baidu.com
