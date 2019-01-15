@@ -56,7 +56,7 @@ Atx是在行首插入1到6个`#`。
         printf("hello all");
     }
 
-或者使用`````
+或者使用```
 ```c++
 if (true) {
     printf("hello again");
@@ -77,12 +77,16 @@ if (true) {
 ___
 
 链接分行内式与参考式  
-行内式的链接类似于这样：  
-`[baidu](www.baidu.com)`  
-[baidu](www.baidu.com)
+行内式的链接类似于这样（别忘了http）：  
+`[baidu](http://www.baidu.com)`  
+[baidu](http://www.baidu.com)
+
 参考式的链接类似于：
 
     [baidu][b]
     [b]: www.baidu.com
+
 [baidu][b]
 [b]: www.baidu.com
+
+
